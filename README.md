@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Greetings! My name is Victor Ku. I am a junior studying Computer Engineering at UC San Diego. I am currently exploring the different areas of the vast world that Computer Science is. So far, I've learned Data Structures, Object Orientated Design, Systems Programming, and Discrete Mathematics. As for my future, I'm seeking opportunities in the summer to grow my technical skills beyond the classroom and gain industry experience.
+Greetings! My name is Victor Ku. I am studying Computer Engineering at UC San Diego. I am currently exploring the different areas of the vast world that Computer Science is. So far, I've learned Data Structures, Object Orientated Design, Systems Programming, and Discrete Mathematics. As for my future, I'm seeking opportunities in the summer to grow my technical skills beyond the classroom and gain industry experience.
 
 * 🌍  I'm based in California, San Diego
 * 🖥️  See my portfolio at [GitHub](http://github.com/VictorKuu)
