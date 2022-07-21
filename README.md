@@ -9,7 +9,7 @@ Greetings! My name is Victor Ku. I am studying Computer Engineering at UC San Di
 * 🌍  I'm based in California, San Diego
 * 🖥️  See my portfolio at [GitHub](http://github.com/VictorKuu)
 * ✉️  You can contact me at [vku@ucsd.edu](mailto:vku@ucsd.edu)
-* 🧠  I'm learning automation and bash scripts
+* 🧠  I'm learning how to create projects to automate certain tasks and bash scripts
 * 🤝  I'm open to collaborating on are cyber security, data leakage, machine learning, computer network engineering, and system control.
 * ⚡  I founded 3D Sprouts, my 3D Printing 501(c)3 organization, dedicated to make 3D printing more accessible to the world while mass producing 1500+ faceshields for essential workers during the Covid-19 pandemic: https://westview3dprinting.wixsite.com/3dsprouts/home
 
